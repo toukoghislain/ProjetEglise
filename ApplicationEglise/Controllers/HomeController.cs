@@ -22,7 +22,7 @@ namespace ApplicationEglise.Controllers
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "Your contact page.by ck";
 
             return View();
         }
